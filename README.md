@@ -3,7 +3,11 @@
 Stock prices are flutuated in every day. So, in each day, put those stocks in order of price change to one sentence. Then, with certain window size, each stock will show up with highly related stock frequently, because they tend to move their prices together.  
 For example, [005380(Hyundai Motors)](http://finance.yahoo.com/quote/005380.KS/?p=005380.KS) moves together with [000270(Kia Motors)](http://finance.yahoo.com/quote/000270.KS/?p=000270.KS). Because not only they are in same industry, but also Hyndai owns Kia.
 
-In this repo, embedding is done with Skip-gram from Word2Vec, and GloVe, but code for embedding is not included because there are already wide spreaded. 
+## Why it matters?
+Every stock are related with others, but we couldn't represent it as a vector. With this result, we can get a similarity between stocks. Moreover, we can put those vectors to our classifier such as Deep Neural Network.
+
+## In this repo
+Embedding is done with Skip-gram from Word2Vec, and GloVe, but code for embedding is not included because there are already wide spreaded. 
 
 You can figure out which stock is related with cosine similarity. In addition, some of result files are delimited with "\001" because I wanted to put those to Hive. Belows are short description about included files.
 
