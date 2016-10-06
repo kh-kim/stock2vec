@@ -16,40 +16,40 @@ You can figure out which stock is related with cosine similarity. In addition, s
 
 ## Sample of related stocks for [005380(Hyundai Motors)](http://finance.yahoo.com/quote/005380.KS/?p=005380.KS)
 
-### skip-gram		
+### skip-gram
 | code | dest_code | similarity |
 | --- | --- | --- |
-| 005380 | 012330 | 0.9679 |
-| 005380 | 005387 | 0.9677 |
-| 005380 | 005385 | 0.9491 |
-| 005380 | 000270 | 0.9306 |
-| 005380 | 005389 | 0.9176 |
-| 005380 | 000240 | 0.8904 |
-| 005380 | 009155 | 0.8859 |
-| 005380 | 009150 | 0.8849 |
-| 005380 | 005850 | 0.8805 |
-| 005380 | 006405 | 0.8723 |
-| 005380 | 034220 | 0.8704 |
-| 005380 | 010690 | 0.8679 |
-| 005380 | 007860 | 0.8672 |
-| 005380 | 018880 | 0.8667 |
-| 005380 | 086280 | 0.8654 |
+| 005380 | [012330](http://finance.yahoo.com/quote/012330.KS) | 0.9679 |
+| 005380 | [005387](http://finance.yahoo.com/quote/005387.KS) | 0.9677 |
+| 005380 | [005385](http://finance.yahoo.com/quote/005385.KS) | 0.9491 |
+| 005380 | [000270](http://finance.yahoo.com/quote/000270.KS) | 0.9306 |
+| 005380 | [005389](http://finance.yahoo.com/quote/005389.KS) | 0.9176 |
+| 005380 | [000240](http://finance.yahoo.com/quote/000240.KS) | 0.8904 |
+| 005380 | [009155](http://finance.yahoo.com/quote/009155.KS) | 0.8859 |
+| 005380 | [009150](http://finance.yahoo.com/quote/009150.KS) | 0.8849 |
+| 005380 | [005850](http://finance.yahoo.com/quote/005850.KS) | 0.8805 |
+| 005380 | [006405](http://finance.yahoo.com/quote/006405.KS) | 0.8723 |
+| 005380 | [034220](http://finance.yahoo.com/quote/034220.KS) | 0.8704 |
+| 005380 | [010690](http://finance.yahoo.com/quote/010690.KS) | 0.8679 |
+| 005380 | [007860](http://finance.yahoo.com/quote/007860.KS) | 0.8672 |
+| 005380 | [018880](http://finance.yahoo.com/quote/018880.KS) | 0.8667 |
+| 005380 | [086280](http://finance.yahoo.com/quote/086280.KS) | 0.8654 |
 
-### glove		
+### glove
 | code | dest_code | similarity |
 | --- | --- | --- |
-| 005380 | 005387 | 0.9273 |
-| 005380 | 000270 | 0.9233 |
-| 005380 | 005385 | 0.9218 |
-| 005380 | 012330 | 0.9100 |
-| 005380 | 005389 | 0.8879 |
-| 005380 | 033530 | 0.7575 |
-| 005380 | 009150 | 0.7364 |
-| 005380 | 002350 | 0.7042 |
-| 005380 | 005850 | 0.7012 |
-| 005380 | 018880 | 0.7001 |
-| 005380 | 091180 | 0.6935 |
-| 005380 | 000240 | 0.6934 |
-| 005380 | 002550 | 0.6719 |
-| 005380 | 003620 | 0.6705 |
-| 005380 | 007860 | 0.6686 | 
+| 005380 | [005387](http://finance.yahoo.com/quote/005387.KS) | 0.9273 |
+| 005380 | [000270](http://finance.yahoo.com/quote/000270.KS) | 0.9233 |
+| 005380 | [005385](http://finance.yahoo.com/quote/005385.KS) | 0.9218 |
+| 005380 | [012330](http://finance.yahoo.com/quote/012330.KS) | 0.9100 |
+| 005380 | [005389](http://finance.yahoo.com/quote/005389.KS) | 0.8879 |
+| 005380 | [033530](http://finance.yahoo.com/quote/033530.KS) | 0.7575 |
+| 005380 | [009150](http://finance.yahoo.com/quote/009150.KS) | 0.7364 |
+| 005380 | [002350](http://finance.yahoo.com/quote/002350.KS) | 0.7042 |
+| 005380 | [005850](http://finance.yahoo.com/quote/005850.KS) | 0.7012 |
+| 005380 | [018880](http://finance.yahoo.com/quote/018880.KS) | 0.7001 |
+| 005380 | [091180](http://finance.yahoo.com/quote/091180.KS) | 0.6935 |
+| 005380 | [000240](http://finance.yahoo.com/quote/000240.KS) | 0.6934 |
+| 005380 | [002550](http://finance.yahoo.com/quote/002550.KS) | 0.6719 |
+| 005380 | [003620](http://finance.yahoo.com/quote/003620.KS) | 0.6705 |
+| 005380 | [007860](http://finance.yahoo.com/quote/007860.KS) | 0.6686 | 
